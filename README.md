@@ -3,7 +3,7 @@ USAGE
 Install django==1.9.13 in python, oauth2client-master.\
 Download client_secrets.json from your Google API account and save it at the top level where manage.py is there.\
 And use the following command.\
-python manage.py runserver
+```python manage.py runserver```
 Make a requirements.txt and add the following code
 ```
 bleach==3.1.0
